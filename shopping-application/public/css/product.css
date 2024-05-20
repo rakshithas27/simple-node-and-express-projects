@@ -16,15 +16,15 @@
 }
 
 .form-control input {
-    border: 1px solid deeppink;
+    border: 1px solid rgb(9, 113, 82);
     font: inherit;
     border-radius: 2px; 
 }
 
 button {
     font: inherit;
-    border: 1px solid deeppink;
-    color: deeppink;
+    border: 1px solid rgb(9, 113, 82);
+    color: rgb(9, 113, 82);
     background: white;
     border-radius: 5px;
     cursor: pointer;
@@ -32,6 +32,6 @@ button {
 
 button:hover,
 button:active {
-    background-color: deeppink;
+    background-color: rgb(9, 113, 82);
     color: white;
 }

@@ -10,7 +10,7 @@ main {
 .main-header {
     width: 100%;
     height: 3.5rem;
-    background-color: rgb(119, 250, 247);
+    background-color:rgb(9, 113, 82);
     padding: 0 1.5rem;
 }
 
@@ -40,5 +40,5 @@ main {
 .main-header__item a:hover,
 .main-header__item a:active,
 .main-header__item a.active {
-    color: deeppink;
+    color:greenyellow;
 }
